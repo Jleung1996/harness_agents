@@ -1,0 +1,16 @@
+﻿# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# secrets
+.env
+.env.local
+
+# os / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

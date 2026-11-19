@@ -1,0 +1,2 @@
+﻿skills/    <- copy these into ~/.agents/skills/
+README.md  <- install steps, inventory, caveats, attribution
